@@ -14,7 +14,7 @@ Basic Setup:
 6. It will give you an ip that you can then use to connect.
 7. After this run the third cell. You are looking for something along the lines of
 
-   MINECRAFT
+MINECRAFT
 14826 java -Xms2G -Xmx4G -jar server.jar nogui
 
 PORT: 25565
