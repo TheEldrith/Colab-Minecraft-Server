@@ -4,6 +4,8 @@ A simple script to create a Minecraft server in google colab
 
 
 Basic Setup:
+
+#ALWAY WAIT TILL CONSOLE GIVES AN OUTPUT!!
 1. Run the first cell containing the google drive mount code. This is necessary as colab sessions reset and will delete all your data. Upon running, you will be prompted to give google colab access to google drive. Select all and click ok.
 2. Then run the second cell. This is the main server setup cell. It downloads the latest minecraft version, the latest java version and the latest playit.gg version.
 3. After running the second cell, wait a bit. Eventually, you will be given a "Claim URL"
